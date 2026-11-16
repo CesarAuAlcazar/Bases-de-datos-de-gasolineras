@@ -35,24 +35,6 @@ El objetivo es procesar los datos abiertos del Ministerio para la Transición Ec
 
 <img width="969" height="742" alt="Diagrama ER" src="https://github.com/user-attachments/assets/a13e3b13-def2-43b9-870a-99abfc095081" />
 
-
-📂 Estructura del repositorio
-.
-├── data/
-│   ├── preciosEESS_es.csv              # Datos de estaciones terrestres
-│   └── embarcacionesPrecios_es.csv     # Datos de postes marítimos
-├── db/
-│   └── schema.sql                      # Script DDL (creación de tablas)
-├── docs/
-│   └── diagrama_er.png                 # Diagrama Entidad-Relación
-├── src/
-│   └── main/
-│       └── java/
-│           └── IngestaDatos.java       # Proceso de carga en Java
-├── queries/
-│   └── consultas.sql                   # Las 5 consultas del enunciado
-├── pom.xml
-└── README.md
 🗄 Diseño de la Base de Datos
 
 El esquema relacional está normalizado para evitar redundancias y facilitar las consultas. Se compone de 6 tablas:
