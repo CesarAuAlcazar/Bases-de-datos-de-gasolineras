@@ -1,4 +1,4 @@
-⛽ Gasolineras España - Diseño de Base de Datos Relacional e Ingesta
+⛽ Gasolineras España - Diseño de Base de Datos Relacional e Ingesta de datos
 
 Este repositorio contiene la solución para la actividad de diseño de una base de datos relacional y carga de datos mediante Java, desarrollada para la asignatura Bases de Datos Avanzadas.
 
